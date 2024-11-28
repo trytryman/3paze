@@ -46,5 +46,10 @@ public class CommonController {
 
 		log.info("post custom logout");
 	}
+	@GetMapping("/custumSignup")
+	public void signupInput( Model model) {
+
+		
+	}
 
 }

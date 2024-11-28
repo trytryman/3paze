@@ -272,6 +272,8 @@
 		
 		<li><a href="/customLogin"><i class="fa fa-sign-out fa-fw"></i>
 		    Login</a></li>
+		<li><a href="/customSignup"><i class="fa fa-sign-out fa-fw"></i>
+		   sign up</a></li>
 		</sec:authorize>
 </ul>
                     <!-- /.dropdown-user -->
